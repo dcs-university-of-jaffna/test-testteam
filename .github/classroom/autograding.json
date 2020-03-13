@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "testcase01",
+      "setup": "",
+      "run": "javac helloworld",
+      "input": "helloworld",
+      "output": "helloworld",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    }
+  ]
+}
